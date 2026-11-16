@@ -1,0 +1,19 @@
+name: uzytak_sun_moon
+description: Sunrise, sunset, moonrise, moonset, Moon phase and illumination — own UZYTAK implementation of public astronomical formulas, checked against Swiss Ephemeris.
+version: 1.0.0
+homepage: https://calendar.uzytak.com/astro/
+repository: https://github.com/uzytak/uzytak_sun_moon
+issue_tracker: https://github.com/uzytak/uzytak_sun_moon/issues
+topics:
+  - astronomy
+  - sun
+  - moon
+  - sunrise
+  - calendar
+
+environment:
+  sdk: ^3.13.2
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0
